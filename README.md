@@ -5,7 +5,11 @@ Junior software engineer based in Athens. BSc in Informatics and Telematics, MSc
 I build backend services with Java/Spring Boot and Python/Flask, and I'm interested in DevOps and data.
 
 ## Tech
-Java · Spring Boot · Python · Flask · SQL (MySQL, PostgreSQL) · MongoDB · Redis · Docker · Kubernetes · GitHub Actions · Pandas · Scikit-learn · React
+Java · Spring Boot · JWT · JPA · 
+Python · Flask · FastApi  
+SQL (MySQL, PostgreSQL) · MongoDB · Redis  
+DevOps · Docker · Kubernetes · GitHub Actions · Pytest 
+Analysis · Numpy · Pandas · Scikit-learn    
 
 ## Projects
 - **[Terminal Management System](https://github.com/ElvisToska/Mellon_Group_Python_Assessment)**: Flask REST API with MySQL, Redis, Pandas, Docker Compose and CI
