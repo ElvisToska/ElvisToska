@@ -5,7 +5,7 @@ Junior software engineer based in Athens. BSc in Informatics and Telematics, MSc
 I build backend services with Java/Spring Boot and Python/Flask, and I'm interested in DevOps and data.
 
 ## Tech
-Java · Spring Boot · JWT · JPA · 
+Java · Spring Boot · JWT · JPA  
 Python · Flask · FastApi  
 SQL (MySQL, PostgreSQL) · MongoDB · Redis  
 DevOps · Docker · Kubernetes · GitHub Actions · Pytest 
